@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/172638313383405223/ded4909587ee4e3d88aa27d5b38e8286/artifacts
+end_time: 1718463614786
+entry_point_name: ''
+experiment_id: '172638313383405223'
+lifecycle_stage: active
+run_id: ded4909587ee4e3d88aa27d5b38e8286
+run_name: useful-grub-705
+run_uuid: ded4909587ee4e3d88aa27d5b38e8286
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718463608226
+status: 3
+tags: []
+user_id: christianhellum
