@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/172638313383405223/41200f9f5c344cccad9c3b1a18941299/artifacts
+deleted_time: 1718463668561
+end_time: 1718463177197
+entry_point_name: ''
+experiment_id: '172638313383405223'
+lifecycle_stage: deleted
+run_id: 41200f9f5c344cccad9c3b1a18941299
+run_name: flawless-duck-983
+run_uuid: 41200f9f5c344cccad9c3b1a18941299
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718463177128
+status: 4
+tags: []
+user_id: christianhellum

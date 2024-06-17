@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1718463809464
+current_stage: None
+description: ''
+last_updated_timestamp: 1718463809464
+name: DeepLearningClassifier
+run_id: 433dab56ecd44ca68fbd2262388ce387
+run_link: ''
+source: mlflow-artifacts:/659133810737705996/433dab56ecd44ca68fbd2262388ce387/artifacts/deep_learning_model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/659133810737705996/433dab56ecd44ca68fbd2262388ce387/artifacts/deep_learning_model
+user_id: null
+version: 1

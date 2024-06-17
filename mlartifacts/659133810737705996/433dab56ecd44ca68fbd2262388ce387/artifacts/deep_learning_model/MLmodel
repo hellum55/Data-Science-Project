@@ -1,0 +1,18 @@
+artifact_path: deep_learning_model
+flavors:
+  keras:
+    data: data
+    keras_backend: tensorflow
+    keras_version: 3.3.3
+    save_exported_model: false
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.keras
+    python_version: 3.12.2
+mlflow_version: 2.13.2
+model_size_bytes: 76137
+model_uuid: 8a8693a019654dd4a256961dffa59da5
+run_id: 433dab56ecd44ca68fbd2262388ce387
+utc_time_created: '2024-06-15 15:03:18.041954'

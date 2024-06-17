@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/659133810737705996/433dab56ecd44ca68fbd2262388ce387/artifacts
+end_time: 1718463809472
+entry_point_name: ''
+experiment_id: '659133810737705996'
+lifecycle_stage: active
+run_id: 433dab56ecd44ca68fbd2262388ce387
+run_name: painted-fly-592
+run_uuid: 433dab56ecd44ca68fbd2262388ce387
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718463797972
+status: 3
+tags: []
+user_id: christianhellum

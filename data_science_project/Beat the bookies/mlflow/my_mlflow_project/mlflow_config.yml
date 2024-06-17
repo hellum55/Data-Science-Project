@@ -1,0 +1,7 @@
+experiment:
+  name: "my_mlflow_experiment"
+  tracking_uri: "http://127.0.0.1:5000"
+  artifact_location: "./mlruns"
+
+model_registry:
+  model_name: "my_model"
