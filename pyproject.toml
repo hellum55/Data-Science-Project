@@ -12,6 +12,7 @@ python = "^3.11"
 
 [tool.poetry.group.dev.dependencies]
 jupyter = "^1.0.0"
+ipykernel = "^6.29.4"
 
 [build-system]
 requires = ["poetry-core"]
