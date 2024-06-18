@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/172638313383405223/b9a8062a707a4a60bafe467253289044/artifacts
+end_time: 1718706500275
+entry_point_name: ''
+experiment_id: '172638313383405223'
+lifecycle_stage: active
+run_id: b9a8062a707a4a60bafe467253289044
+run_name: treasured-ram-821
+run_uuid: b9a8062a707a4a60bafe467253289044
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718706493908
+status: 3
+tags: []
+user_id: christianhellum
