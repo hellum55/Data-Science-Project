@@ -4,7 +4,7 @@ entry_point_name: ''
 experiment_id: '726527489354702234'
 lifecycle_stage: active
 run_id: 681aa494de9241e198ac63340b11feb2
-run_name: worried-whale-922
+run_name: Random Forest
 run_uuid: 681aa494de9241e198ac63340b11feb2
 source_name: ''
 source_type: 4

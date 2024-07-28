@@ -4,7 +4,7 @@ entry_point_name: ''
 experiment_id: '172638313383405223'
 lifecycle_stage: active
 run_id: b9a8062a707a4a60bafe467253289044
-run_name: treasured-ram-821
+run_name: XGBoost
 run_uuid: b9a8062a707a4a60bafe467253289044
 source_name: ''
 source_type: 4
